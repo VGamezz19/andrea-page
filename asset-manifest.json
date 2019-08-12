@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/andrea-page/static/css/main.2cce8147.chunk.css",
+    "main.js": "/andrea-page/static/js/main.61828263.chunk.js",
+    "main.js.map": "/andrea-page/static/js/main.61828263.chunk.js.map",
+    "runtime~main.js": "/andrea-page/static/js/runtime~main.e90a933a.js",
+    "runtime~main.js.map": "/andrea-page/static/js/runtime~main.e90a933a.js.map",
+    "static/js/2.e49df6b1.chunk.js": "/andrea-page/static/js/2.e49df6b1.chunk.js",
+    "static/js/2.e49df6b1.chunk.js.map": "/andrea-page/static/js/2.e49df6b1.chunk.js.map",
+    "index.html": "/andrea-page/index.html",
+    "precache-manifest.58144192270f505098ba96815a517262.js": "/andrea-page/precache-manifest.58144192270f505098ba96815a517262.js",
+    "service-worker.js": "/andrea-page/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/andrea-page/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/andrea-page/static/media/logo.5d5d9eef.svg"
+  }
+}
